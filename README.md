@@ -8,12 +8,15 @@ other associated things with respect to Star Wars.
 
 I have used Jenkins/docker which were locally hosted and provided my creds on both platform
 
-Application Git Repo : https://github.com/rishabhnitb/Start-Wars
-Docker image : https://hub.docker.com/r/rishabhnitb/star-wars
-To pull the image : docker pull rishabhnitb/star-wars
-Above image can be started to access the application
+Application accessing steps :
+	
+	-Application Git Repo : https://github.com/rishabhnitb/Start-Wars
+	-Docker image : https://hub.docker.com/r/rishabhnitb/star-wars
+	-To pull the image : docker pull rishabhnitb/star-wars
+	-Above image can be started to access the application
 
 Project include Jenkinsfile with following stages :
+
 	-GIT checkout (to checkout the project from git)
 	-MVN package (to perform maven goal)
 	-Build Docker Image (building docker image)
