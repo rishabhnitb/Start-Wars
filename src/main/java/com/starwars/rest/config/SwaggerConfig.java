@@ -22,7 +22,7 @@ public class SwaggerConfig {
 	   }
 	
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("Book Service")
+		return new ApiInfoBuilder().title("Star Wars Service")
 				.description("Documentation Generateed Using SWAGGER for our Star Wars Rest API")
 				.termsOfServiceUrl("https://swapi.dev/")
 				.version("1.0")
