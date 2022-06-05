@@ -6,7 +6,7 @@ Application uses open source API provided by https://swapi.dev/api/
 Application can be used to get details for the characters, vehicles, films and 
 other associated things with respect to Star Wars.
 
-I have used Jenkins/docker which were locally hosted and provided my creds on both platform
+I have used Jenkins/docker which were locally hosted and provided my creds on both platform (PLEASE UPDATE WHEREVER NECESSARY)
 
 Application accessing steps :
 	
