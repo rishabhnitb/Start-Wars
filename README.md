@@ -32,5 +32,9 @@ It is an Spring based Web Application which is exposed using a micro-service whi
 		(NOTE : If only type is provided, response will contain list of all the available objects)
 		
 <img width="843" alt="image" src="https://user-images.githubusercontent.com/5252807/172023401-87eadd21-48cb-4326-9c53-feda781874b0.png">
+
+Jenkins Stage View : 
+<img width="1028" alt="image" src="https://user-images.githubusercontent.com/5252807/172051268-fc4e7a0d-ebcb-4bb0-a340-ae05b217ab77.png">
+
 		
 		
